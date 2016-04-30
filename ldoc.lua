@@ -16,6 +16,7 @@
 -- @license MIT/X11
 -- @script ldoc
 
+do local pl = require "pl" end
 local class = require 'pl.class'
 local app = require 'pl.app'
 local path = require 'pl.path'
